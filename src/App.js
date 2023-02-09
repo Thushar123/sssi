@@ -1,9 +1,9 @@
 import './App.css';
-import BannerSection from "./container/index";
+import MainSection from "./container/index";
 function App() {
   return (
     <div className="App">
-      <BannerSection />
+      <MainSection />
     </div>
   );
 }
